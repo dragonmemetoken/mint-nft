@@ -1,0 +1,20 @@
+{
+    "name":"Dragon Meme",
+    "description":"Introducing the Dragon Meme NFT Collection: A unique and whimsical world of 5,000 cute yet fierce dragons, exclusively launching on the SEI Network. Each dragon boasts its own quirky personality and meme-worthy style, ensuring no two are alike. As a special perk, NFT holders will be treated to an airdrop of $DMEME tokens, the official memecoin of the project. Dive into a fun-filled realm where fantasy meets meme culture, and each dragon is not just a collectible, but a ticket to an exhilarating and meme-tastic adventure!",
+    "website":"https://dragonmeme.io/mint-nft",
+    "twitter":"https://twitter.com/Dragonmeme2024",
+    "discord":"",
+    "rpc":"https://rpc.atlantic-2.seinetwork.io/",
+    "network":"atlantic-2", 
+    "collection_address":"sei1qgtuj7n83quu5z2aelfyjxa3gs4frdeu5psvlejxve0f3spjjzcsjhgxj3",
+    "nft_name_type": "default",
+    "groups":[
+        {
+            "name":"whitelist",
+            "allowlist":[]
+        },
+        {
+            "name":"public"
+        }
+    ]
+}
