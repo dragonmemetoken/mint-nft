@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mint-nft/static/css/main.7d309ce9.css",
-    "main.js": "/mint-nft/static/js/main.4fba52e0.js",
+    "main.js": "/mint-nft/static/js/main.797919a4.js",
     "static/media/Poppins-Light.ttf": "/mint-nft/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
     "static/media/Poppins-Regular.ttf": "/mint-nft/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
     "static/media/Poppins-Medium.ttf": "/mint-nft/static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
@@ -13,10 +13,10 @@
     "static/media/keplr.png": "/mint-nft/static/media/keplr.8731c3e972f5b93ae2a7.png",
     "index.html": "/mint-nft/index.html",
     "main.7d309ce9.css.map": "/mint-nft/static/css/main.7d309ce9.css.map",
-    "main.4fba52e0.js.map": "/mint-nft/static/js/main.4fba52e0.js.map"
+    "main.797919a4.js.map": "/mint-nft/static/js/main.797919a4.js.map"
   },
   "entrypoints": [
     "static/css/main.7d309ce9.css",
-    "static/js/main.4fba52e0.js"
+    "static/js/main.797919a4.js"
   ]
 }
